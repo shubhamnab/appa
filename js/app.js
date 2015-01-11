@@ -7,7 +7,7 @@ var lookAroundApp = angular.module("lookAroundApp", [
     "lookAroundApp.controllers",
     "lookAroundApp.filters",
     "lookAroundApp.directives",
-    "ui.bootstrap"
+    "ui-bootstrap"
 ]);
 
 lookAroundApp.config(function ($routeProvider) {
